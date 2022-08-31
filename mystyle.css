@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url(windows.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.container h1{
+  color:white;
+  border-bottom: 2px solid red;
+  font-family: Times New Roman;
+  padding-bottom: 6px;
+  padding-top: 0px;
+  font-size: 40px;
+  width: 392;
+
+
+}
+.container {
+  padding: 200px;
+
+}
+.container input{
+  margin: 7px;
+  border-bottom: 2px solid red;
+  background: none;
+  color: white;
+  font-size: 15px;
+  outline: none;
+  width: 215px;
+  height: 36px;
+}
+.container button{
+  border-radius: 11px;
+  font-size: 15px;
+  font-weight: bold;
+  height: 28px;
+  width: 71px;
+  cursor: pointer;
+  margin-left: 64px;
+  margin-top: 10px;
+  background: none;
+  outline: none;
+  border: 2px solid red;
+}
